@@ -1,11 +1,7 @@
 ### Hi there 👋
-<img align="center" src="https://gpvc.arturio.dev/kha22" alt="kha22's github views" />
 
-- ✨ _A dragon is not a slave!_ ✨ -
-
-<a href="https://github.com/kha22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kha22&layout=compact&theme=cobalt" />
-</a>
+- ✨ _A dragon is not a slave!_ ✨
+- <img align="center" src="https://gpvc.arturio.dev/kha22" alt="kha22's github views" />
 
 <h2>⚡ Skills</h2>
 
