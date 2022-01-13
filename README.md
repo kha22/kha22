@@ -2,17 +2,6 @@
 
 - ✨ _A dragon is not a slave!_ ✨
 
-<h2>:label: Github Stats</h2>
-<div>
-    <a href="#"><img alt="Kha22's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kha22&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="150px" /></a>
-    <br>
-    <a href="#"><img alt="Kha22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kha22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="Kha22's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kha22&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=bf9000&sideNums=F0DB4F&currStreakNum=bf9000&sideLabels=351c75" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="Kha22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kha22&custom_title=Kha22's%20Contribution%20Graph&bg_color=0D1117&color=bf9000&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
-</div>
-
 <h2>⚡ Skills</h2>
 
 | # | # | # | # |
