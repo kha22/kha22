@@ -2,6 +2,8 @@
 
 - ✨ _A dragon is not a slave!_ ✨
 
+<img align="center" src="https://gpvc.arturio.dev/kha22" alt="kha22's github views" />
+
 <h2>⚡ Skills</h2>
 
 | # | # | # | # |
